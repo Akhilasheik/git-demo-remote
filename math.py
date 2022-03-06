@@ -7,3 +7,5 @@ def mul(x,y):
 	#div implementation
 def div(x,y):
 	pass
+def sq(x):
+	pass #2nd imple on RR
