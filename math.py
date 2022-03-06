@@ -1,8 +1,9 @@
 #Add implementation
 def add(x,y):
-	pass
-#sub imple
+	return x+y
+#sub implementation
 def mul(x,y):
 	pass
+	#div implementation
 def div(x,y):
 	pass
